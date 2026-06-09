@@ -32,16 +32,6 @@ Lucidchart (process diagram: 5 failure points in enterprise AI adoption lifecycl
 Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, quarter)
 ```
 
-## Key Findings (2025–2026 Data)
-
-- **The gap is real:** Self-reported productivity gains average **40–57%** across sectors. Measured gains average **8–31%** - a 2–4x overstatement
-- **Size matters more than industry:** Mid-market firms (500–5,000 employees) show the worst measured outcomes - averaging just **7–13%** measured gain vs. **30–50%** self-reported
-- **The two strongest predictors of measured gain:** having a formal OCM (change management) program AND a pre-deployment measurement baseline - companies with both score 15–25 points higher on the adoption readiness index
-- **Training gap:** 56% of employees received no AI training in 2025 (McKinsey); firms investing 20+ hours/employee per quarter show 2x the measured productivity gain
-- **Consulting leads all sectors** in both adoption (99% enterprise) and measured gains (33% in 2026 Q1) - driven by narrow, well-defined task domains and high baseline measurement culture
-- **Healthcare is catching up fast:** measured gains grew from 21% to 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
-- **Paradox peak:** 91% adoption + 80%+ firms reporting no measurable impact = the paradox in a single statistic (Stanford HAI / McKinsey 2025–2026)
-
 ## 📊 Interactive Dashboard
 
 📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
@@ -66,4 +56,14 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 3. **Training gaps** - 56% of employees received no AI training in 2025
 4. **No measurement baseline** - can't prove ROI because nothing was measured before deployment
 5. **Change fatigue** - too many concurrent transformation initiatives erode adoption
+
+## Key Findings (2025–2026 Data)
+
+- **The gap is real:** Self-reported productivity gains average **40–57%** across sectors. Measured gains average **8–31%** - a 2–4x overstatement
+- **Size matters more than industry:** Mid-market firms (500–5,000 employees) show the worst measured outcomes - averaging just **7–13%** measured gain vs. **30–50%** self-reported
+- **The two strongest predictors of measured gain:** having a formal OCM (change management) program AND a pre-deployment measurement baseline - companies with both score 15–25 points higher on the adoption readiness index
+- **Training gap:** 56% of employees received no AI training in 2025 (McKinsey); firms investing 20+ hours/employee per quarter show 2x the measured productivity gain
+- **Consulting leads all sectors** in both adoption (99% enterprise) and measured gains (33% in 2026 Q1) - driven by narrow, well-defined task domains and high baseline measurement culture
+- **Healthcare is catching up fast:** measured gains grew from 21% to 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
+- **Paradox peak:** 91% adoption + 80%+ firms reporting no measurable impact = the paradox in a single statistic (Stanford HAI / McKinsey 2025–2026)
 
