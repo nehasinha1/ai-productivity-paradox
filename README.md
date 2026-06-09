@@ -77,7 +77,7 @@ Each row in the dataset includes an `Adoption_Score` (0–100) calculated across
 |---|---|
 | [`data/ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | 54-row dataset: adoption + productivity metrics by industry, size, quarter |
 | [`excel/adoption_scoring_model_notes.md`](excel/adoption_scoring_model_notes.md) | Scoring model methodology and dimension weights |
-| [`diagrams/`](diagrams/) | Lucidchart process diagram: where enterprise AI adoption fails |
+| [`diagrams/`](diagrams) | Lucidchart process diagram: where enterprise AI adoption fails |
 
 ## The 5 Failure Points (Lucidchart Diagram)
 
