@@ -2,6 +2,8 @@
 
 **Tools:** Tableau · Excel · Lucidchart
 
+📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
+
 ## Overview
 
 91% of businesses now use AI in at least one function (2026) — yet over 80% of firms report no measurable productivity impact from their AI investments. This project maps the gap between AI adoption rates and realized output gains across industries and company sizes, using 2025–2026 enterprise survey data from Stanford HAI, McKinsey, and public research.
