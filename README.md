@@ -55,7 +55,7 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 |---|---|
 | [`data/ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | Cross-industry dataset compiled from Stanford HAI, McKinsey, and Digital Applied research reports; covers adoption rates, productivity metrics, training investment, and OCM program data by industry and company size |
 | [`excel/adoption_scoring_model_notes.md`](excel/adoption_scoring_model_notes.md) | Adoption scoring methodology and dimension weights |
-| [`Lucidchart diagrams`](diagrams) | Lucidchart process diagram: where enterprise AI adoption fails |
+| [`Lucidchart diagram`](diagrams) | Lucidchart process diagram: where enterprise AI adoption fails |
 
 ## Key Findings (2025–2026 Data)
 
