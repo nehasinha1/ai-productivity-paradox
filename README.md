@@ -69,7 +69,6 @@ Each row in the dataset includes an `Adoption_Score` (0–100) calculated across
 
 📋 **[AI Productivity Failure Points — Process Flow (Lucidchart)](./diagrams)**
 
-> See [diagrams](./diagrams) folder
 
 ## Files
 
