@@ -22,7 +22,7 @@
 ## Methodology
 
 ```
-Stanford HAI + McKinsey + Digital Applied survey data
+Stanford HAI AI Index + McKinsey State of AI + Digital Applied State of AI Agents reports
     │
     ▼
 Excel (clean, pivot by industry × company size × quarter; build adoption scoring model)
@@ -54,8 +54,8 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 
 | File | Description |
 |---|---|
-| [`data/ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | 54-row dataset: adoption + productivity metrics by industry, size, quarter |
-| [`excel/adoption_scoring_model_notes.md`](excel/adoption_scoring_model_notes.md) | Scoring model methodology and dimension weights |
+| [`data/ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | Cross-industry dataset compiled from Stanford HAI, McKinsey, and Digital Applied research reports; covers adoption rates, productivity metrics, training investment, and OCM program data by industry and company size |
+| [`excel/adoption_scoring_model_notes.md`](excel/adoption_scoring_model_notes.md) | Adoption scoring methodology and dimension weights |
 | [`diagrams`](diagrams) | Lucidchart process diagram: where enterprise AI adoption fails |
 
 ## The 5 Failure Points (Lucidchart Diagram)
