@@ -41,14 +41,6 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 📋 **[AI Productivity Failure Points - Process Flow (Lucidchart)](./diagrams)**
 
 
-## Files
-
-| File | Description |
-|---|---|
-| [`data/ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | Cross-industry dataset compiled from Stanford HAI, McKinsey, and Digital Applied research reports; covers adoption rates, productivity metrics, training investment, and OCM program data by industry and company size |
-| [`excel/adoption_scoring_model_notes.md`](excel/adoption_scoring_model_notes.md) | Adoption scoring methodology and dimension weights |
-| [`diagrams`](diagrams) | Lucidchart process diagram: where enterprise AI adoption fails |
-
 ## The 5 Failure Points (Lucidchart Diagram)
 
 1. **Tool selection without needs assessment** - buying before diagnosing
@@ -66,4 +58,12 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 - **Consulting leads all sectors** in both adoption (99% enterprise) and measured gains (33% in 2026 Q1) - driven by narrow, well-defined task domains and high baseline measurement culture
 - **Healthcare is catching up fast:** measured gains grew from 21% to 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
 - **Paradox peak:** 91% adoption + 80%+ firms reporting no measurable impact = the paradox in a single statistic (Stanford HAI / McKinsey 2025–2026)
+
+## Files
+
+| File | Description |
+|---|---|
+| [`data/ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | Cross-industry dataset compiled from Stanford HAI, McKinsey, and Digital Applied research reports; covers adoption rates, productivity metrics, training investment, and OCM program data by industry and company size |
+| [`excel/adoption_scoring_model_notes.md`](excel/adoption_scoring_model_notes.md) | Adoption scoring methodology and dimension weights |
+| [`diagrams`](diagrams) | Lucidchart process diagram: where enterprise AI adoption fails |
 
