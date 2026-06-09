@@ -34,7 +34,7 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 
 ## 📊 Interactive Dashboard
 
-📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
+📊 **[AI Productivity Paradox 2025-2026](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
 
 ## Process Flow Diagram
 
