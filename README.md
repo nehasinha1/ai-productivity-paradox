@@ -44,19 +44,6 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 - **Healthcare is catching up fast:** measured gains grew from 21% → 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
 - **Paradox peak:** 91% adoption + 80%+ firms reporting no measurable impact = the paradox in a single statistic (Stanford HAI / McKinsey 2025–2026)
 
-## Adoption Scoring Model
-
-Each row in the dataset includes an `Adoption_Score` (0–100) calculated across 5 weighted dimensions:
-
-| Dimension | Weight |
-|---|---|
-| Executive sponsorship | 25% |
-| Workflow integration depth | 25% |
-| Training investment (hrs/employee/quarter) | 20% |
-| Pre-deployment measurement baseline | 15% |
-| Formal OCM program | 15% |
-
-**Score interpretation:** 80–100 = High readiness · 60–79 = Moderate · 40–59 = At risk · <40 = Low readiness
 
 ## Process Flow Diagram
 
@@ -79,12 +66,3 @@ Each row in the dataset includes an `Adoption_Score` (0–100) calculated across
 4. **No measurement baseline** — can't prove ROI because nothing was measured before deployment
 5. **Change fatigue** — too many concurrent transformation initiatives erode adoption
 
----
-
-**Sources:**
-- [Stanford HAI AI Index Report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report)
-- [McKinsey State of AI: Global Survey 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
-- [Digital Applied: State of AI Agents 2026 — 200+ Data Points](https://www.digitalapplied.com/blog/state-of-ai-agents-2026-200-data-points)
-- [AI Productivity Statistics 2026 — AutoFaceless](https://autofaceless.ai/blog/ai-productivity-statistics-2026)
-
-*Analysis by Neha Sinha · [GitHub](https://github.com/nehasinha1)*
