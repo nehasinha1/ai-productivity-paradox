@@ -2,6 +2,8 @@
 
 **Tools:** Tableau · Excel · Lucidchart
 
+> **TL;DR:** Companies report 2–4x higher productivity gains from AI than what measured data actually shows. Across 6 industries from 2025–2026, self-reported productivity gains averaged 350% while measured gains averaged only 150%. This project investigates why the gap exists and which industries are most affected.
+
 📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
 
 ## Overview
