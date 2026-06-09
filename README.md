@@ -32,11 +32,11 @@ Lucidchart (process diagram: 5 failure points in enterprise AI adoption lifecycl
 Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, quarter)
 ```
 
-## 📊 Interactive Dashboard
+## 📊 Tableau Dashboard
 
 📊 **[AI Productivity Paradox 2025-2026](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
 
-## Process Flow Diagram
+## Lucidchart Diagram
 
 📋 **[AI Productivity Failure Points - Process Flow (Lucidchart)](./diagrams)**
 
