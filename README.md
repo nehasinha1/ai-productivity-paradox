@@ -49,6 +49,14 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 4. **No measurement baseline** - can't prove ROI because nothing was measured before deployment
 5. **Change fatigue** - too many concurrent transformation initiatives erode adoption
 
+## Files
+
+| File | Description |
+|---|---|
+| [`data/ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | Cross-industry dataset compiled from Stanford HAI, McKinsey, and Digital Applied research reports; covers adoption rates, productivity metrics, training investment, and OCM program data by industry and company size |
+| [`excel/adoption_scoring_model_notes.md`](excel/adoption_scoring_model_notes.md) | Adoption scoring methodology and dimension weights |
+| [`diagrams`](diagrams) | Lucidchart process diagram: where enterprise AI adoption fails |
+
 ## Key Findings (2025–2026 Data)
 
 - **The gap is real:** Self-reported productivity gains average **40–57%** across sectors. Measured gains average **8–31%** - a 2–4x overstatement
@@ -58,12 +66,4 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 - **Consulting leads all sectors** in both adoption (99% enterprise) and measured gains (33% in 2026 Q1) - driven by narrow, well-defined task domains and high baseline measurement culture
 - **Healthcare is catching up fast:** measured gains grew from 21% to 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
 - **Paradox peak:** 91% adoption + 80%+ firms reporting no measurable impact = the paradox in a single statistic (Stanford HAI / McKinsey 2025–2026)
-
-## Files
-
-| File | Description |
-|---|---|
-| [`data/ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | Cross-industry dataset compiled from Stanford HAI, McKinsey, and Digital Applied research reports; covers adoption rates, productivity metrics, training investment, and OCM program data by industry and company size |
-| [`excel/adoption_scoring_model_notes.md`](excel/adoption_scoring_model_notes.md) | Adoption scoring methodology and dimension weights |
-| [`diagrams`](diagrams) | Lucidchart process diagram: where enterprise AI adoption fails |
 
