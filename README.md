@@ -23,7 +23,7 @@
 
 | Dataset | Source | Last Updated |
 |---|---|---|
-| [`ai_adoption_productivity_2025_2026.csv`](data/ai_adoption_productivity_2025_2026.csv) | [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · [McKinsey State of AI 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) · [Digital Applied: State of AI Agents 2026](https://www.digitalapplied.com/blog/state-of-ai-agents-2026-200-data-points) | May 2026 |
+| [`ai_adoption_productivity_2025_2026.csv`](https://github.com/nehasinha1/ai-productivity-paradox/blob/main/data/ai_adoption_productivity_2025_2026.csv) | [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · [McKinsey State of AI 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) · [Digital Applied: State of AI Agents 2026](https://www.digitalapplied.com/blog/state-of-ai-agents-2026-200-data-points) | May 2026 |
 
 ### Schema: `ai_adoption_productivity_2025_2026.csv`
 `Industry` · `Company_Size` · `Year` · `Quarter` · `AI_Adoption_Rate_Pct` · `Self_Reported_Productivity_Gain_Pct` · `Measured_Productivity_Gain_Pct` · `AI_Tools_Used` · `Hrs_Saved_Per_Week_Per_Employee` · `Training_Hours_Per_Employee` · `Has_OCM_Program` · `Has_Measurement_Baseline` · `Adoption_Score` · `Source`
