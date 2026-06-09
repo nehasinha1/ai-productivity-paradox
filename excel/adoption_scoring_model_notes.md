@@ -1,4 +1,4 @@
-# Adoption Scoring Model — Methodology Notes
+# Adoption Scoring Model - Methodology Notes
 
 The `adoption_scoring_model.xlsx` workbook scores organizational AI readiness across 5 dimensions.
 Each dimension is rated 1–5 and weighted by its empirical correlation with successful adoption outcomes.
