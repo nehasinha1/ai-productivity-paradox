@@ -38,7 +38,7 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 
 ## Lucidchart Diagram
 
-📋 **[AI Productivity Failure Points - Process Flow (Lucidchart)](./diagrams)**
+📋 **[AI Productivity Failure Points - Process Flow](./diagrams)**
 
 
 ## The 5 Failure Points (Lucidchart Diagram)
