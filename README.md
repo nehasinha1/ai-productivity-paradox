@@ -42,6 +42,8 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 - **Healthcare is catching up fast:** measured gains grew from 21% to 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
 - **Paradox peak:** 91% adoption + 80%+ firms reporting no measurable impact = the paradox in a single statistic (Stanford HAI / McKinsey 2025–2026)
 
+## 📊 Interactive Dashboard
+
 📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
 
 ## Process Flow Diagram
