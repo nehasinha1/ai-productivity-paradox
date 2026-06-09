@@ -4,8 +4,6 @@
 
 > **TL;DR:** Companies report 2–4x higher productivity gains from AI than what measured data actually shows. Across 6 industries from 2025–2026, self-reported productivity gains averaged 350% while measured gains averaged only 150%. This project investigates why the gap exists and which industries are most affected.
 
-📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
-
 ## Key Questions
 
 - Which industries show the widest gap between AI adoption and measured productivity gain?
@@ -44,6 +42,7 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 - **Healthcare is catching up fast:** measured gains grew from 21% to 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
 - **Paradox peak:** 91% adoption + 80%+ firms reporting no measurable impact = the paradox in a single statistic (Stanford HAI / McKinsey 2025–2026)
 
+📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIProductivityParadox2025-2026/Dashboard1)**
 
 ## Process Flow Diagram
 
