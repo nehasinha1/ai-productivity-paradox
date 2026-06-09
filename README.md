@@ -11,7 +11,7 @@
 - Which industries show the widest gap between AI adoption and measured productivity gain?
 - Does company size predict adoption failure more than industry?
 - What structural factors (OCM programs, measurement baselines, training investment) drive the difference between self-reported and measured gains?
-- Is there a "productivity dip" before gains materialize — and how long does it last?
+- Is there a "productivity dip" before gains materialize - and how long does it last?
 
 ## Data Sources
 
@@ -36,18 +36,18 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 
 ## Key Findings (2025–2026 Data)
 
-- **The gap is real:** Self-reported productivity gains average **40–57%** across sectors. Measured gains average **8–31%** — a 2–4x overstatement
-- **Size matters more than industry:** Mid-market firms (500–5,000 employees) show the worst measured outcomes — averaging just **7–13%** measured gain vs. **30–50%** self-reported
-- **The two strongest predictors of measured gain:** having a formal OCM (change management) program AND a pre-deployment measurement baseline — companies with both score 15–25 points higher on the adoption readiness index
+- **The gap is real:** Self-reported productivity gains average **40–57%** across sectors. Measured gains average **8–31%** - a 2–4x overstatement
+- **Size matters more than industry:** Mid-market firms (500–5,000 employees) show the worst measured outcomes - averaging just **7–13%** measured gain vs. **30–50%** self-reported
+- **The two strongest predictors of measured gain:** having a formal OCM (change management) program AND a pre-deployment measurement baseline - companies with both score 15–25 points higher on the adoption readiness index
 - **Training gap:** 56% of employees received no AI training in 2025 (McKinsey); firms investing 20+ hours/employee per quarter show 2x the measured productivity gain
-- **Consulting leads all sectors** in both adoption (99% enterprise) and measured gains (33% in 2026 Q1) — driven by narrow, well-defined task domains and high baseline measurement culture
-- **Healthcare is catching up fast:** measured gains grew from 21% → 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
+- **Consulting leads all sectors** in both adoption (99% enterprise) and measured gains (33% in 2026 Q1) - driven by narrow, well-defined task domains and high baseline measurement culture
+- **Healthcare is catching up fast:** measured gains grew from 21% to 28% between 2025 Q1 and Q4, driven by radiology and clinical documentation AI
 - **Paradox peak:** 91% adoption + 80%+ firms reporting no measurable impact = the paradox in a single statistic (Stanford HAI / McKinsey 2025–2026)
 
 
 ## Process Flow Diagram
 
-📋 **[AI Productivity Failure Points — Process Flow (Lucidchart)](./diagrams)**
+📋 **[AI Productivity Failure Points - Process Flow (Lucidchart)](./diagrams)**
 
 
 ## Files
@@ -60,9 +60,9 @@ Tableau (dashboard: self-reported vs. measured gains; filter by size, industry, 
 
 ## The 5 Failure Points (Lucidchart Diagram)
 
-1. **Tool selection without needs assessment** — buying before diagnosing
-2. **No integration with existing workflows** — AI sits parallel to, not inside, work
-3. **Training gaps** — 56% of employees received no AI training in 2025
-4. **No measurement baseline** — can't prove ROI because nothing was measured before deployment
-5. **Change fatigue** — too many concurrent transformation initiatives erode adoption
+1. **Tool selection without needs assessment** - buying before diagnosing
+2. **No integration with existing workflows** - AI sits parallel to, not inside, work
+3. **Training gaps** - 56% of employees received no AI training in 2025
+4. **No measurement baseline** - can't prove ROI because nothing was measured before deployment
+5. **Change fatigue** - too many concurrent transformation initiatives erode adoption
 
