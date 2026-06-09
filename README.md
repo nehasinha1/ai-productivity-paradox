@@ -63,6 +63,12 @@ Each row in the dataset includes an `Adoption_Score` (0–100) calculated across
 
 **Score interpretation:** 80–100 = High readiness · 60–79 = Moderate · 40–59 = At risk · <40 = Low readiness
 
+## Process Flow Diagram
+
+📋 **AI Productivity Failure Points — Process Flow (Lucidchart)**
+
+> See [diagrams](./diagrams) folder
+
 ## Files
 
 | File | Description |
